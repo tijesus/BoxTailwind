@@ -521,6 +521,14 @@ video {
   display: grid;
 }
 
+.h-48 {
+  height: 12rem;
+}
+
+.h-96 {
+  height: 24rem;
+}
+
 .w-1\/3 {
   width: 33.333333%;
 }
